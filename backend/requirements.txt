@@ -1,0 +1,27 @@
+# Core Backend
+fastapi
+uvicorn
+python-dotenv
+
+# LLM + RAG
+langchain
+langchain-community
+chromadb
+sentence-transformers
+faiss-cpu
+
+# Optional: for OpenAI or local models
+openai
+ollama
+
+# PDF/Doc Processing
+PyPDF2
+docx
+unstructured
+
+# Frontend (if Streamlit)
+streamlit
+
+# Utility
+tqdm
+requests
